@@ -3,7 +3,7 @@
 // neural network regression demo, supported optimizers: sgd, adam
 // supported data sets: people, optimization, synthetic
 // nn24 -> nn 25: optimized signal flow (input to output), fixed momentum,
-// new basic implentation: (pre acitivation, nodes to gradients, no input layer gradients)
+// new basic implementation: (pre acitivation, nodes to gradients, no input layer gradients)
 // new evaluation score, standartized for ml models
 // tipp: cntrl + m + o
 

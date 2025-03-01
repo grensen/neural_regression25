@@ -4,7 +4,7 @@ This is my latest neural network implementation for regression problems, featuri
 
 ---
 
-## From Prompt to Prediction Model: MARS Demo
+## NN25 Demo with New Score Function  
 
 <p align="center">
   <img src="https://github.com/grensen/neural_regression25/blob/main/nn25_regression.png">
